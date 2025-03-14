@@ -7,7 +7,7 @@ int main() {
     cin >> A >> B;
 
     //cout << "A값은 " << A << "  B값은 " << B << endl;
-    //cout << "A+B값은 " << A+B;
+    cout << "A+B값은 " << A+B;
     cout << A + B;
 
     return 0;
