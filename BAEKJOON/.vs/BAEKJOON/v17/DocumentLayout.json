@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\12865.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40160AC-9C02-4A54-9DEB-DBCA88706654}|BAEKJOON\\BAEKJOON.vcxproj|D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\12865.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F40160AC-9C02-4A54-9DEB-DBCA88706654}|BAEKJOON\\BAEKJOON.vcxproj|solutionrelative:BAEKJOON\\12865.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40160AC-9C02-4A54-9DEB-DBCA88706654}|BAEKJOON\\BAEKJOON.vcxproj|D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\1000.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F40160AC-9C02-4A54-9DEB-DBCA88706654}|BAEKJOON\\BAEKJOON.vcxproj|solutionrelative:BAEKJOON\\1000.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\1000.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "12865.cpp",
+              "DocumentMoniker": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\12865.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\BAEKJOON_C\\BAEKJOON_C\\12865.cpp",
+              "ToolTip": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\12865.cpp",
+              "RelativeToolTip": "..\\..\\..\\BAEKJOON_C\\BAEKJOON_C\\12865.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T08:24:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "12865.cpp",
+              "DocumentMoniker": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\12865.cpp",
+              "RelativeDocumentMoniker": "BAEKJOON\\12865.cpp",
+              "ToolTip": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\12865.cpp",
+              "RelativeToolTip": "BAEKJOON\\12865.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T08:24:10.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1000.cpp",
+              "DocumentMoniker": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\1000.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\BAEKJOON_C\\BAEKJOON_C\\1000.cpp",
+              "ToolTip": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\\BAEKJOON_C\\1000.cpp",
+              "RelativeToolTip": "..\\..\\..\\BAEKJOON_C\\BAEKJOON_C\\1000.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T08:23:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1000.cpp",
+              "DocumentMoniker": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\1000.cpp",
+              "RelativeDocumentMoniker": "BAEKJOON\\1000.cpp",
+              "ToolTip": "D:\\backjoon\\C\u002B\u002B\\BAEKJOON_C\u002B\u002B\\babycooding\\BAEKJOON\\BAEKJOON\\1000.cpp",
+              "RelativeToolTip": "BAEKJOON\\1000.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T08:23:13.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
